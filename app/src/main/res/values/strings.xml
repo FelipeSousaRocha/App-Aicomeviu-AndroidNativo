@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FoodOrderApp</string>
+    <string name="detalhes_do_cliente">Detalhes do cliente</string>
+    <string name="pegar">Pegar</string>
+    <string name="entrega">Entrega</string>
+    <string name="compre">Compre</string>
+    <string name="r_0_0">R$0.0</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="fa_a_seu_pedido">Faça seu pedido</string>
+</resources>

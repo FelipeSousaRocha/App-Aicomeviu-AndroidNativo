@@ -1,0 +1,237 @@
+[
+    {
+      "name":"Pizza Hut",
+      "address":"Av. Engenheiro Roberto Freire, 1912",
+      "delivery_charge": 5,
+      "image":"https://logosmarcas.net/wp-content/uploads/2021/10/Pizza-Hut-Logo.png",
+
+      "hours":{
+        "Sunday":"11:00 - 19:00",
+        "Monday":"10:00 - 21:00",
+        "Tuesday":"10:00 - 22:00",
+        "Wednesday":"10:00 - 23:00",
+        "Thursday":"10:00 - 22:00",
+        "Friday":"10:00 - 23:00",
+        "Saturday":"10:00 - 14:00"
+      },
+      "menus": [
+        {
+          "name": "Spaghetti",
+          "price": 10.00,
+          "url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/7/17/1/FN_Simple-Spaghetti-with-Tomato-Sauce_s4x3.jpg.rend.hgtvcom.826.620.suffix/1408069256188.jpeg"
+        },
+        {
+          "name": "Pizza de Spaghettios",
+          "price": 13.99,
+          "url": "https://lh3.googleusercontent.com/p/AF1QipN-WboPX7pEgnNqg78wranzezsGMdPfwCoxQjdJ=s1280-p-no-v1"
+        },
+        {
+          "name": "Pizza de Chocolate",
+          "price": 4.99,
+          "url": "https://149366112.v2.pressablecdn.com/wp-content/uploads/2017/08/blah.jpg"
+        },
+        {
+          "name": "Palitos de queijo",
+          "price": 5.49,
+          "url": "https://www.spendwithpennies.com/wp-content/uploads/2013/10/Cheese-Sticks-SpendWithPennies-2-21-500x500.jpg"
+        },
+        {
+          "name": "SANDUÍCHE DE FRANGO",
+          "price": 4.00,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "Almoço",
+          "price": 3.25,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "Salada",
+          "price": 5.49,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "Salada coob",
+          "price": 3.99,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "BISCOITO E BROWNIE",
+          "price": 8.09,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "PRATO DE BROWNIE",
+          "price": 6.49,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+        }
+      ]
+    },
+    {
+      "name":"Brasa's",
+      "address":"Av. Cidade das Flores, 1084",
+      "delivery_charge": 4,
+      "image":"https://nyc3.digitaloceanspaces.com/telepesquisa/clientes/logos/000/252/905/large/025733_Brasas_Food_Logomarca_01.png",
+
+      "hours":{
+        "Sunday":"11:00 - 19:00",
+        "Monday":"10:00 - 22:00",
+        "Tuesday":"10:00 - 22:00",
+        "Wednesday":"10:00 - 20:00",
+        "Thursday":"10:00 - 22:00",
+        "Friday":"10:00 - 22:00",
+        "Saturday":"9:00 - 1:00"
+      },
+      "menus": [
+        {
+          "name": "Cachorro quente",
+          "price": 2.99,
+          "url": "https://awrestaurants.com/sites/default/files/hotdog_0.png"
+        },
+        {
+          "name": "Esfirra de queijo",
+          "price": 1.59,
+          "url": "https://casadasesfihas.netlify.app/img/queijo.png"
+        },
+        {
+          "name": "Energético",
+          "price": 5.44,
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF2KzBUdwZjGoJIWIqHGHDozwcr3_oGrkhYQ&usqp=CAU"
+        },
+        {
+          "name": "Batata frita",
+          "price": 2.00,
+          "url": "https://images.fineartamerica.com/images-medium-large-5/crinkle-cut-french-fries-full-frame-foodcollection.jpg"
+        },
+        {
+          "name": "Milkshake",
+          "price": 3.49,
+          "url": "https://files.heftycdn.com/wp-content/uploads/2020/06/7c19980b4ec07e741b2823ea45370467.png"
+        },
+        {
+          "name": "Milkshake de chocolate",
+          "price": 4.95,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "Milkshake de morango",
+          "price": 3.59,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "Hamburger de frango",
+          "price": 5.49,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+        },
+        {
+          "name": "Nuggets",
+          "price": 3.99,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "Combo de lanche do almoço",
+          "price": 28.29,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "Combo de lanche da tarde",
+          "price": 16.99,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Product_Desktop$"
+        }
+      ]
+    },
+  {
+    "name":"McDonald's",
+    "address":"Av. Prudente de Morais, 2525",
+    "delivery_charge": 5,
+    "image":"https://www.mcdonalds.com/content/dam/usa/nfl/assets/nav/arches-logo_108x108.jpg",
+    "hours":{
+      "Sunday":"11:00 - 7:00",
+      "Monday":"10:00 - 10:00",
+      "Tuesday":"10:00 - 10:00",
+      "Wednesday":"10:00 - 8:00",
+      "Thursday":"10:00 - 10:00",
+      "Friday":"10:00 - 10:00",
+      "Saturday":"9:00 - 2:00"
+    },
+    "menus": [
+      {
+        "name": "Milkshake de Chocolate ",
+        "price": 4.95,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Milkshake de morango",
+        "price": 3.59,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Mcfish",
+        "price": 5.49,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+      },
+      {
+        "name": "McNuggets",
+        "price": 3.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Combo Meal",
+        "price": 8.29,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "McMuffin",
+        "price": 6.99,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Product_Desktop$"
+      }
+    ]
+  },
+  {
+    "name":"Fogo e chama",
+    "address":"Av. Praia de Ponta Negra, 8920",
+    "delivery_charge": 6,
+    "image":"https://scontent.fnat1-1.fna.fbcdn.net/v/t1.18169-9/22154220_1175080299259971_2319715399997590665_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ZJWDSPdxS_EAX9GoONw&_nc_oc=AQmnnnT8RtU80fBgMtCKonzuauT5Pt6L8IQdShTw9D0sZu-6GdncaBTbp5IiXD5W2xQ&_nc_ht=scontent.fnat1-1.fna&oh=00_AT9_VK2ZujZE3TbfLx-RC2bR8UIjMhuQB6ocRXNcY5_-SA&oe=63015D5F",
+    "hours":{
+      "Sunday":"11:00 - 19:00",
+      "Monday":"10:00 - 22:00",
+      "Tuesday":"10:00 - 22:00",
+      "Wednesday":"10:00 - 20:00",
+      "Thursday":"10:00 - 22:00",
+      "Friday":"10:00 - 22:00",
+      "Saturday":"10:00 - 3:00"
+    },
+    "menus": [
+      {
+        "name": "SANDUÍCHE DE FRANGO",
+        "price": 4.00,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "ALMOÇO",
+        "price": 3.25,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "SALADA A MODA DA CASA",
+        "price": 5.49,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "SALADA COBB",
+        "price": 3.99,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "\nBISCOITO E BROWNIE",
+        "price": 8.09,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "PRATO cCOM BROWNIE",
+        "price": 6.49,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+      }
+    ]
+  }
+]
